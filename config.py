@@ -1,2 +1,2 @@
-version = "2.1"
-changelog ="Added auto updater!"
+version = "2.2"
+changelog ="Added new commands/check the updatelogs."
