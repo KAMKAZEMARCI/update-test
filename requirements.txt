@@ -14,10 +14,7 @@ gtts
 dnspython
 httpx
 image
-keyboard
 wave
-pygame
-mixer
 playsound
 config
 pyautogui
