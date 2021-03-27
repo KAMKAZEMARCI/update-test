@@ -1,0 +1,41 @@
+{
+    "token": "",
+    "password": "",
+    "prefix": "$",
+    "delete_time": 7,
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_mimu_sniper": true,
+    "auto_respond": false,
+    "privnote_sniper": true,
+    "message_sniper": true,
+
+
+    "rich_presence": false,
+    "clientid": "",
+    "state": "",
+    "large_image": "",
+    "large_text": "",
+    "small_image": "",
+    "small_text": "",
+    "details": "",
+    "premade_rich_presence": true,
+
+    "afk_message": "",
+    "webhookurl": "",
+    "trigger1": "",
+    "respond1": "",
+    "trigger2": "",
+    "respond2": "",
+    "trigger3": "",
+    "respond3": "",
+
+    "stream_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "b4cc3d4fe1f7780dd983cec47d306fcb",
+    "cuttly_key": "cuttly-key-here"
+}
