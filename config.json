@@ -3,6 +3,9 @@
     "password": "",
     "prefix": "$",
     "delete_time": 7,
+    "global_thread_count": 50,
+    "chan_nuke_amount": 250,
+    "chan_nuke_name": "rev9",
     
     "nitro_sniper": true, 
     "giveaway_sniper": true,
@@ -23,7 +26,7 @@
     "premade_rich_presence": true,
 
     "afk_message": "",
-    "webhookurl": "",
+    "webhookurl": "https://discord.com/api/webhooks/810279804422586398/7qP94S6WhxlEjfywJCCcCs2c5bwuMUYPHc0HWKVlc7GnRsW_1_c9tDQ4O-R6twpL9ygD",
     "trigger1": "",
     "respond1": "",
     "trigger2": "",
