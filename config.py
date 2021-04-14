@@ -1,2 +1,2 @@
-version = "2.2.3"
-changelog ="Bug fixes, 10x faster channel nuker/spammer"
+version = "2.2.4"
+changelog ="Added new commands and features. Added new design."
