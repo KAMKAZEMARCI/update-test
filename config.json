@@ -10,7 +10,7 @@
     "nitro_sniper": true,
     "giveaway_sniper": true,
     "slotbot_mimu_sniper": true,
-    "auto_respond": true,
+    "auto_respond": false,
     "privnote_sniper": true,
     "message_sniper": true,
     "rich_presence": false,
