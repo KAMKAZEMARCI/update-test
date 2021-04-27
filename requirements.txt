@@ -33,4 +33,6 @@ tokage
 wmi
 pytz
 PyGithub
+requests_toolbelt
 giphypop
+pycryptodome
