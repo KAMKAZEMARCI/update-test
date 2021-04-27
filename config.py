@@ -1,2 +1,2 @@
-version = "2.2.5"
-changelog ="Added new commands and features. Added new design. (STABLE UPDATE) also updated the config file..."
+version = "2.2.6"
+changelog ="Auth update, new commands."
