@@ -36,4 +36,3 @@ PyGithub
 requests_toolbelt
 giphypop
 pycryptodome
-Crypto
