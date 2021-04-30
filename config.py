@@ -1,2 +1,2 @@
-version = "2.2.6"
-changelog ="Auth update, new commands."
+version = "2.2.7"
+changelog ="Added massban, new commands/features."
